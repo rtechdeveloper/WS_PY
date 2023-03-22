@@ -1,4 +1,5 @@
 # Adicionado o projeto ao GITHUB
+# Teste de alteração no VS Code
 # Operadores in e not in
 # Strings são iteráveis
 #  0 1 2 3 4 5
